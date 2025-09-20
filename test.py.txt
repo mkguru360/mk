@@ -1,4 +1,4 @@
-hello world
+Learn git commands
 !! then we are ready to launch the git 
 
 today we learn the commands
